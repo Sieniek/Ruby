@@ -4,6 +4,11 @@ http://www.rubeque.com/problems/generating-random-numbers?solution_code=100..500
 http://www.rubeque.com/problems/your-favorite-and-mine-comma--fibonacci-excl-?solution_code=case+n%0D%0Awhen+0%0D%0A++0%0D%0Awhen+1%0D%0A++1%0D%0Aelse%0D%0A++fibo_finder%28n+-+1%29+%2B+fibo_finder%28n+-+2%29%0D%0Aend
 http://www.rubeque.com/problems/the-little-hash-key-that-could?solution_code=min+%3D+nil%0D%0Ahash.each+do+%7Ck%2Cv%7C%0D%0A+++min+%7C%7C%3D+k+%0D%0A++min+%3D+v+%3C+hash%5Bmin%5D+%3F+k+%3A+min%0D%0Aend%0D%0Amin
 http://www.rubeque.com/problems/including-modules?solution_code=b
+http://www.rubeque.com/problems/method-acting?solution_code=__method__
+http://www.rubeque.com/problems/what-quo-s-your-area-of-expertise?solution_code=area+%3D+%28upper_left.x+-+lower_right.x%29+%2A+%28upper_left.y+-+lower_right.y%29%0D%0Aarea+%2A%3D+area+%3C+0+%3F+-1+%3A+1%0D%0Aarea
+===Medium===
+http://www.rubeque.com/problems/something-doesn-quo-t-add-up?solution_code=0+%2B+12995
+http://www.rubeque.com/problems/prime-factorization?solution_code=def+prime_factorization%28n%29%0D%0A++result+%3D+%5B%5D%0D%0A++i+%3D+2%0D%0A++while+i+%3C%3D+n+do%0D%0A++++if+n+%25+i+%3D%3D+0%0D%0A++++++n+%2F%3D+i%0D%0A++++++result.push+i%0D%0A++++++i+%3D+2+++%0D%0A++++else%0D%0A++++++i+%2B%3D+1%0D%0A++++end%0D%0A++end%0D%0A++result%0D%0Aend%0D%0A
 
 
 
